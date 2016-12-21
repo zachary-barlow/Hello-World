@@ -1,2 +1,4 @@
 # Hello-World
-Instruction to GitHub
+
+Hello.
+This is part of the instruction phase for GitHub
